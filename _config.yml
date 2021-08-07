@@ -26,6 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://divelog.mikeheijmans.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: parabuzzle
 github_username:  parabuzzle
+facebook_username: parabuzzle
+linkedin_username: mheijmans
+flickr_username: parabuzzle
+instagram_username: parabuzzle
+vimeo_username: parabuzzle
 
 # Build settings
 theme: minima
@@ -33,7 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-paginate: 5
+paginate: 10
 #paginate_path: "/blog/page:num/"
 # Exclude from processing.
 # The following items will not be processed, by default.
