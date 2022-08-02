@@ -11,7 +11,7 @@ divelog:
   gas: EAN 32%
   visibility: 30
   water_temp: 72
-   stops:
+  stops:
     - depth: 15
       time: 15
       reason: safety stop
