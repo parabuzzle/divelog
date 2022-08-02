@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blue Grotto Eesa Drysuit Checkout 1"
-date:   2022-07-16 12:00:00
+date:   2022-07-21 12:00:00
 author: Mike Heijmans
 categories: open-water
 divelog:
