@@ -29,6 +29,6 @@ The visibility was "ok" with lots of silt still suspended from the day before. I
 
 The next task of the dive was the pee-valve. This is the first time I donned the required "connections" for the drysuit pee-valve and I am happy to report that everything worked well. I did learn something important about my balanced valve setup though... That is that you **MUST** keep the valve open when you have it all "connected up". This is because if you don't you are sealing in ambient pressure differences that result on a "squeezing" of the delicate bits! Yea... I learned that the hardway. Thank goodness I thought to open the valve back up when I felt it and it was instant release.
 
-Overall the dive went well and I'm pretty happy with first footage on the new rig. The lighting is more than enough for cave video and the GoPro Hero 10 is quite good at capturing steady and clean shots. My only complaint is that my camera rig is significantly negatively bouyant and unstable.. I will need to get some time in the pool with various floats to trim it out and get it neutral.
+Overall the dive went well and I'm pretty happy with first footage on the new rig. The lighting is more than enough for cave video and the GoPro Hero 10 is quite good at capturing steady and clean shots. My only complaint is that my camera rig is significantly negatively buoyant and unstable.. I will need to get some time in the pool with various floats to trim it out and get it neutral.
 
 <img width="800px" src="/imgs/dive-51-perdix.png"/>
